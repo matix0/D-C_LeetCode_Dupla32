@@ -21,6 +21,12 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 
 ## Screenshots
 
+### [Reverse Pairs](./screenshots/Screenshot_Desafio_4.png)
+![](./screenshots/Screenshot_Desafio_4.png)
+
+### [Median of Two Sorted Arrays](./screenshots/Screenshot_Desafio_493.png)
+![](./screenshots/Screenshot_Desafio_493.png)
+
 
 ## Linguagem Utilizada
 
