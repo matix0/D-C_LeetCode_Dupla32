@@ -18,6 +18,7 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
 | 493      | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=divide-and-conquer)                             | Difícil              |
 | 4        | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer) | Difícil              |
+| 43       | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)                                                                        | Média                |
 
 ## Screenshots
 
@@ -26,6 +27,9 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 
 ### [Median of Two Sorted Arrays](./screenshots/Screenshot_Desafio_493.png)
 ![](./screenshots/Screenshot_Desafio_493.png)
+
+### [Multiply Strings](./screenshots/Screenshot_Desafio_43.png)
+![](./screenshots/Screenshot_Desafio_43.png)
 
 
 ## Linguagem Utilizada
