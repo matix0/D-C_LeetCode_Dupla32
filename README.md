@@ -42,4 +42,4 @@ Entrar na plataforma [LeetCode](https://leetcode.com/), procurar pelo número do
 
 ## Outros
 
-[Vídeo de Apresentação]
+[Vídeo de Apresentação](https://youtu.be/BuyIh5GABBU)
